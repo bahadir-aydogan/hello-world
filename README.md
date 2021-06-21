@@ -1,5 +1,4 @@
 # hello-world
 shift all lines
-I wrote a short description
-I add one more line.
+---I wrote a short description---
 and append final line
